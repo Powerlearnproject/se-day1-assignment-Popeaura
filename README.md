@@ -13,7 +13,6 @@ Identify and describe at least three key milestones in the evolution of software
 -Object-Oriented Programming - Used objects to bundle data and operations, making software more flexible.
 -Embracing Agile methods- Promoted flexible and collaborative software development, focusing on adapting to changes.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 -Research - Gather what the software needs to do.
 -Design-Plan how the software will work.
