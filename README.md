@@ -19,7 +19,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 -Implementation - Write the code.
 -Testing -Check if the software works correctly.
 -Deployment -Release the software for use.
--Maintenance -Fix issues 
+-Maintenance -Fix issues that may occur during the cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
